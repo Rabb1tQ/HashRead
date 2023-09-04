@@ -1,0 +1,14 @@
+C:\Users\Gridsum\Desktop\文件hash\hash\bin\Release\hash.exe.config
+C:\Users\Gridsum\Desktop\文件hash\hash\bin\Release\hash.exe
+C:\Users\Gridsum\Desktop\文件hash\hash\bin\Release\hash.pdb
+C:\Users\Gridsum\Desktop\文件hash\hash\obj\Release\hash.csproj.AssemblyReference.cache
+C:\Users\Gridsum\Desktop\文件hash\hash\obj\Release\hash.csproj.CoreCompileInputs.cache
+C:\Users\Gridsum\Desktop\文件hash\hash\obj\Release\hash.exe
+C:\Users\Gridsum\Desktop\文件hash\hash\obj\Release\hash.pdb
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\bin\Release\hash.exe.config
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\bin\Release\hash.exe
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\bin\Release\hash.pdb
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\obj\Release\hash.csproj.AssemblyReference.cache
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\obj\Release\hash.csproj.CoreCompileInputs.cache
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\obj\Release\hash.exe
+C:\Users\Gridsum\Desktop\自己的小工具\文件hash\hash\obj\Release\hash.pdb
